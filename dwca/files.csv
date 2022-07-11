@@ -1,0 +1,9 @@
+name,rowType,encoding,fieldsTerminatedBy,linesTerminatedBy,fieldsEnclosedBy,ignoreHeaderLines
+.*.csv,,,",",,"""",1
+.*.tsv,,,"\t",,"""",1
+.*.txt,,,"\t",,"""",1
+events?(_[a-z]*)?\..*,http://rs.tdwg.org/dwc/terms/Event,,,,,,
+extendedmeasurement(orfact)?s?(_[a-z]*)?\..*,http://rs.iobis.org/obis/terms/ExtendedMeasurementOrFact,,,,,,,
+measurement(orfact)?s?(_[a-z]*)?\..*,http://rs.tdwg.org/dwc/terms/MeasurementOrFact,,,,,,,
+(multi)?media(_[a-z]*)?\..*,http://rs.gbif.org/terms/1.0/Multimedia,,,,,,
+occurrences?(_[a-z]*)?\..*,http://rs.tdwg.org/dwc/terms/Occurrence,,,,,,
