@@ -67,8 +67,10 @@ eventMeasurementRemarks,http://rs.tdwg.org/dwc/terms/eventMeasurementRemarks
 eventMeasurementType,http://rs.tdwg.org/dwc/terms/eventMeasurementType
 eventMeasurementUnit,http://rs.tdwg.org/dwc/terms/eventMeasurementUnit
 eventMeasurementValue,http://rs.tdwg.org/dwc/terms/eventMeasurementValue
+eventName,http://rs.gbif.org/terms/1.0/eventName
 eventRemarks,http://rs.tdwg.org/dwc/terms/eventRemarks
 eventTime,http://rs.tdwg.org/dwc/terms/eventTime
+eventType,http://rs.gbif.org/terms/1.0/eventType
 family,http://rs.tdwg.org/dwc/terms/family
 fieldNotes,http://rs.tdwg.org/dwc/terms/fieldNotes
 fieldNumber,http://rs.tdwg.org/dwc/terms/fieldNumber
